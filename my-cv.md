@@ -14,19 +14,19 @@ I am a diligent and motivated first-year BCA (Bachelor of Computer Applications)
 
 # **Former**  **Education:**
 ***
-Program Institution/Board %/CGPA Year
+Program       Institution/Board          %/CGPA      Year
+***
+10th Pass     Fanindra Deb Institution     77%    2019 – 20
+              (Jalpaiguri, West Bengal)
 
-10th Pass Fanindra Deb Institution 77% 2019 – 20
+11th Pass 
+(Pure Science 
+with Computer 
+Science)       Fanindra Deb Institution     59%   2020 – 21
+                (Jalpaiguri, West Bengal)
 
-(Jalpaiguri, West Bengal)
-
-11th Pass (Pure Science with Computer Science) Fanindra Deb Institution 59% 2020 – 21
-
-(Jalpaiguri, West Bengal)
-
-12th Pass Fanindra Deb Institution 64.2% 2022 – 23
-
-(Jalpaiguri, West Bengal)
+12th Pass      Fanindra Deb Institution     64.2%   2022 – 23
+                (Jalpaiguri, West Bengal)
 
 # **Current Education:**
 ***

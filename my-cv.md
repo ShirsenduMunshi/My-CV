@@ -28,7 +28,7 @@ Program Institution/Board %/CGPA Year
 
 (Jalpaiguri, West Bengal)
 
-# **Current**** Education:**
+# **Current **Education:
 
 **Bachelor of Computer Applications (BCA)**
 

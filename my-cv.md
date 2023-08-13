@@ -16,13 +16,9 @@ I am a diligent and motivated first-year BCA (Bachelor of Computer Applications)
 ***
 Program&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Institution/Board&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;%/CGPA&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Year
 ***
-10th Pass&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Fanindra Deb Institution&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;77%&nbsp;&nbsp;&nbsp;&nbsp;2019 – 20<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(Jalpaiguri, West Bengal)
+10th Pass&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Fanindra Deb Institution&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;77%&nbsp;&nbsp;&nbsp;&nbsp;2019 – 20<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(Jalpaiguri, West Bengal)
 
-11th Pass 
-(Pure Science 
-with Computer 
-Science)       Fanindra Deb Institution     59%   2020 – 21
-                (Jalpaiguri, West Bengal)
+11th Pass<br>(Pure Science <br>with Computer<br> Science)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Fanindra Deb Institution&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;59%&nbsp;&nbsp;&nbsp;&nbsp;2020 – 21<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(Jalpaiguri, West Bengal)
 
 12th Pass      Fanindra Deb Institution     64.2%   2022 – 23
                 (Jalpaiguri, West Bengal)

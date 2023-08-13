@@ -29,7 +29,7 @@ Program Institution/Board %/CGPA Year
 (Jalpaiguri, West Bengal)
 
 # **Current Education:**
-
+***
 **Bachelor of Computer Applications (BCA)**
 
 - University: North Bengal St. Xavier's College

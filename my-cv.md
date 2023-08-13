@@ -16,7 +16,7 @@ I am a diligent and motivated first-year BCA (Bachelor of Computer Applications)
 ***
 Program&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Institution/Board&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;%/CGPA&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Year
 ***
-10th Pass     Fanindra Deb Institution     77%    2019 – 20
+10th Pass&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Fanindra Deb Institution&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;77%&nbsp;&nbsp;&nbsp;&nbsp;2019 – 20
               (Jalpaiguri, West Bengal)
 
 11th Pass 

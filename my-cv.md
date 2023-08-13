@@ -4,7 +4,7 @@ Val: Adarpara, Jalpaiguri Pin- 736123, West Bengal
 
 ϡ +8617504021 ®֍ [Shirsendumunshi@gmail.com](mailto:Shirsendumunshi@gmail.com)
 
-ї [www.Linkedin.com/in/shirsendumunshi](http://www.Linkedin.com/in/shirsendumunshi)  ї [www.github.com/ShirsenduMunshi](http://www.github.com/ShirsenduMunshi)
+ї [www.Linkedin.com/in/shirsendumunshi](http://www.Linkedin.com/in/shirsendumunshi)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;®&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ї [www.github.com/ShirsenduMunshi](http://www.github.com/ShirsenduMunshi)
 
 # **Objective:**
 ***

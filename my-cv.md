@@ -9,11 +9,11 @@ Val: Adarpara, Jalpaiguri Pin- 736123, West Bengal
 ї [www.github.com/ShirsenduMunshi](http://www.github.com/ShirsenduMunshi)
 
 # **Objective:**
-
+***
 I am a diligent and motivated first-year BCA (Bachelor of Computer Applications) student with a passion for programming, web development, and technology. I am eager to learn and contribute to projects that enhance my skills and knowledge in the field of computer science.
 
 # **Former**  **Education:**
-
+***
 Program Institution/Board %/CGPA Year
 
 10th Pass Fanindra Deb Institution 77% 2019 – 20
@@ -37,7 +37,7 @@ Program Institution/Board %/CGPA Year
 - Expected Graduation: 2026 August.
 
 # **Personal Skills:**
-
+***
 - Programming Languages: C++, Java, C.
 - Web Development: HTML, CSS, Javascript, PHP, Tailwind css, WordPress.
 - Microsoft Office Suite: Word, Excel, PowerPoint.
@@ -45,7 +45,7 @@ Program Institution/Board %/CGPA Year
 - Communication: Fluent in English, effective written and verbal communication.
 
 # **Key Projects**
-
+***
 1. Amazon Clone.
 2. Portfolio Website Design.
 3. E-Commerce Website Design.
@@ -54,14 +54,14 @@ Program Institution/Board %/CGPA Year
 6. Number Guessing Game using C language.
 
 # **Interests:**
-
+***
 - Web development.
 - Web designing.
 - Programming.
 - Problem-solving.
 
 # **Languages:**
-
+***
 - English: Fluent (Speaking and Writing)
 - Bengali: Fluent (Speaking and Writing)
 - Hindi: Fluent (Speaking)
